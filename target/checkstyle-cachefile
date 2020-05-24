@@ -1,0 +1,9 @@
+#Sun May 17 00:42:13 CST 2020
+configuration*?=EE703A3B9BE6B50995AA9C067A1808537C2A9617
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+D\:\\project\\server\\quickstart\\greeter\\src\\main\\java\\org\\jboss\\as\\quickstarts\\greeter\\domain\\UserDao.java=1586026544087
+D\:\\project\\server\\quickstart\\greeter\\src\\main\\java\\org\\jboss\\as\\quickstarts\\greeter\\web\\CreateController.java=1586026544087
+D\:\\project\\server\\quickstart\\greeter\\src\\main\\java\\org\\jboss\\as\\quickstarts\\greeter\\web\\GreetController.java=1586026544088
+D\:\\project\\server\\quickstart\\greeter\\src\\main\\java\\org\\jboss\\as\\quickstarts\\greeter\\domain\\EJBUserDao.java=1586026544085
+D\:\\project\\server\\quickstart\\greeter\\src\\main\\java\\org\\jboss\\as\\quickstarts\\greeter\\Resources.java=1586026544085
+D\:\\project\\server\\quickstart\\greeter\\src\\main\\java\\org\\jboss\\as\\quickstarts\\greeter\\domain\\User.java=1586273880654
